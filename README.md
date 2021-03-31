@@ -23,4 +23,3 @@ Happy Eurovision Season! :)
 
 ## Resources
   **Data :** [eurovision.tv](https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae) 
-
