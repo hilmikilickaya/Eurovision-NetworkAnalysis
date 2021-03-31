@@ -23,4 +23,4 @@ Happy Eurovision Season! :)
 
 ## Resources
   **Data :** [eurovision.tv](https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae) \
-  **Other Resources :** [Social Network Analysis](https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7)
+
