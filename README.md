@@ -4,8 +4,7 @@
   </p>
 
 ## Motivation
-   I am a huge fan of the Eurovision Song Contest and I created my first directed graph in Python using Eurovision 2016 results! I got the dateset from [Eurovision.tv](https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae
-) 
+   I am a huge fan of the Eurovision Song Contest and I created my first directed graph in Python using Eurovision 2016 results! I got the dateset from [Eurovision.tv](https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae). 
 
 
 In my network analysis, I compared the results to identify trends and connections. The nodes represent countries and the edges represent the voting patterns between them. I located the countries in geographical positions and the flag sizes represent their total points.
